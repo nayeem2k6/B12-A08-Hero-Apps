@@ -25,7 +25,7 @@ A short project overview explaining the purpose of the project.
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/nayeem2k6/B12-A08-Hero-Apps.git
 
 
 
